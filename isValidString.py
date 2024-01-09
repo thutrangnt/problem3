@@ -61,3 +61,4 @@ def isValidString(s: str) -> str:
     if  queue == []:
         return "valid"
     return "invalid"
+print('aa')
